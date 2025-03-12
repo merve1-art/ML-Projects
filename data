@@ -1,0 +1,6 @@
+/data
+    ├── raw
+    │   └── student_mat.csv
+    │   └── student_por.csv
+    └── processed
+        └── clean_dataset.csv
